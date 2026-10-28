@@ -49,6 +49,11 @@ Diffusion Model ile Görsel Üretimi (HuggingFace)
 ↓
 Gradio Arayüzünde Metin + Görsel Sunumu
 
+## Katkıda Bulunanlar
+
+-Tuba Nur Aksın
+-Asude Çetin
+
 ## Örnek Çıktılar
 
 
